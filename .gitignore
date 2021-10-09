@@ -1,0 +1,11 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Repositorio/bin/Debug/netcoreapp3.1
+/Repositorio/obj
+/Service/bin/Debug/netcoreapp3.1
+/Service/obj
+/TesteCoreApi/bin/Debug/netcoreapp3.1
+/TesteCoreApi/obj
