@@ -22,14 +22,16 @@ https://localhost:44375/produto/create/
 
 Update (Post)
 https://localhost:44375/produto/update/
- {
+
+{
+
         "id": 0,
         "nome": "",
         "descricao": "",
         "valorUnitario": 0.00,
         "quantidade": 0,
         "idTipoProduto": 0
-    }
+}
 
 Delete (Get)
 https://localhost:44375/produto/delete/{id}
